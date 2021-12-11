@@ -24,7 +24,7 @@ Completed
 
 ### Features
 -FR-  
-La liste des courses est sauvegardée dans un fichier .json.
+La liste des courses est sauvegardée dans un fichier .json.  
 Le programme dispose de différentes options, pour ajouter, supprimer ou visualiser des éléments de la liste.
 
 ## Contributing
