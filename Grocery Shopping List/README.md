@@ -1,4 +1,4 @@
-# [Grocery Shopping List]
+# Grocery Shopping List
 -FR-  
 Le programme Grocery Shopping List permet de gérer une liste de course.
 
