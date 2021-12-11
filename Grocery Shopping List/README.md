@@ -1,5 +1,5 @@
 # [Grocery Shopping List]
--FR-
+-FR-  
 Le programme Grocery Shopping List permet de gérer une liste de course.
 
 ## Table of contents
@@ -11,7 +11,7 @@ Le programme Grocery Shopping List permet de gérer une liste de course.
 - [Contact](#contact)
 
 ## Related content
--FR-
+-FR-  
 [Udemy](https://www.udemy.com/) - [La Formation Complète Python](https://www.udemy.com/course/formation-complete-python/)
 Ce programme a été réalisé dans le cadre d'un exercice pour une formation en ligne. 
 
@@ -23,7 +23,7 @@ Ce programme a été réalisé dans le cadre d'un exercice pour une formation en
 Completed
 
 ### Features
--FR-
+-FR-  
 La liste des courses est sauvegardée dans un fichier .json.
 Le programme dispose de différentes options, pour ajouter, supprimer ou visualiser des éléments de la liste.
 
