@@ -12,7 +12,7 @@ Le programme Grocery Shopping List permet de gérer une liste de course.
 
 ## Related content
 -FR-  
-[Udemy](https://www.udemy.com/) - [La Formation Complète Python](https://www.udemy.com/course/formation-complete-python/)
+[Udemy](https://www.udemy.com/) - [La Formation Complète Python](https://www.udemy.com/course/formation-complete-python/)  
 Ce programme a été réalisé dans le cadre d'un exercice pour une formation en ligne. 
 
 ## Technologies and tools
