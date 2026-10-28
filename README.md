@@ -1,36 +1,31 @@
 # Grocery Shopping List
--FR-  
-Le programme Grocery Shopping List permet de gérer une liste de course.
 
-## Table of contents
-- [Related content](#related-content)
-- [Technologies](#technologies-and-tools)
-- [Status](#status)
-  - [Features](#features)
-- [Contributing](#contributing)
-- [Contact](#contact)
+A Python 3 command-line program to manage a grocery shopping list, built as an exercise for the Udemy course "La Formation Complète Python".
 
-## Related content
--FR-  
-[Udemy](https://www.udemy.com/) - [La Formation Complète Python](https://www.udemy.com/course/formation-complete-python/)  
-Ce programme a été réalisé dans le cadre d'un exercice pour une formation en ligne. 
+## About The Project
 
-## Technologies and tools
+The original README (in French) described the program: the shopping list is saved in a .json file, and the program offers options to add, remove and view items on the list.
+
+## Built With
+
 - Python 3
 
+## Getting Started
+
+### Running the program
+
+```bash
+python grocery-shopping-list.py
+```
+
 ## Status
-**Version 1.01.00 (10/03/2020)**  
-Completed
 
-### Features
--FR-  
-La liste des courses est sauvegardée dans un fichier .json.  
-Le programme dispose de différentes options, pour ajouter, supprimer ou visualiser des éléments de la liste.
+Version 1.01.00 - Completed, per the original README.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate (if any).
+## License
+
+No license file is present in this repository.
 
 ## Contact
-Created by [Dylan J. Gerrits](https://github.com/Dyrits).
 
+Dylan J. Gerrits - [GitHub](https://github.com/Dyrits)
